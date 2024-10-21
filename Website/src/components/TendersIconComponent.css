@@ -1,0 +1,28 @@
+.tenders-icon-component {
+    display: flex;
+    align-items: center;
+  }
+  
+  .brand-icon img {
+    width: 50px; /* Adjust the size as needed */
+    height: auto;
+  }
+  
+  .tenders-info {
+    margin-left: 10px;
+  }
+  
+  .tenders-info h2 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .tenders-info ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .tenders-info ul li {
+    margin: 5px 0;
+  }
+  
